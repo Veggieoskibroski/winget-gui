@@ -1,2 +1,2 @@
 # winget-gui
-A simple HTA-based WinGet 
+A simple HTA-based WinGet GUI.
